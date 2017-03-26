@@ -15,8 +15,10 @@ else:
 
         print('Please enter a valid email address')
 
-# Unable to insert a break without it crashing. Runs fine without. 
+# Unable to insert a break without it crashing. Runs fine without.
 
-        break
+ #       break
 
 print('Your User Name is :', UserName)
+
+
